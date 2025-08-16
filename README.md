@@ -1,16 +1,23 @@
-# image_detector
+# Image Analyzer App 📸📝
 
-A new Flutter project.
+A simple yet powerful **Flutter app** that uses **Google ML Kit** to extract text from images.  
+Users can capture or select an image, extract the text, and copy it for further use.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📷 **Image Selection** – Capture an image using the camera or pick one from the gallery.  
+- 📝 **Text Recognition** – Extract text from images using **Google ML Kit**.  
+- 📋 **Copy Extracted Text** – Easily copy the recognized text to the clipboard.  
+- ⚡ **Lightweight & Fast** – Quick text recognition with minimal setup.  
+- 📱 **Flutter UI** – Simple and user-friendly interface for seamless experience.  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+
+### 1. Clone the repository
+```bash
+git https://github.com/codexahmar/ImageAnalyzer
+cd image-analyzer-app
